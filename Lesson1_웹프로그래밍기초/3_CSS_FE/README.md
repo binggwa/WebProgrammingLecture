@@ -361,3 +361,8 @@ left:10px;
 - 특별한 위치에 배치하기 위해서는 position absolute를 사용하고, 기준점을 relative로 설정한다
 - 네비게이션과 같은 엘리먼트는 block 엘리먼트를 inline-block으로 변경해서 가로로 배치하기도 함
 - 엘리먼트 안의 텍스트의 간격과, 다른 엘리먼트 간의 간격은 각각 padding과 margin 속성을 활용해서 위치시킨다
+## 6) HTML/CSS 디버깅
+- 크롬 개발자도구의 element panel을 통해 쉽게 변경 및 확인 가능
+- css style inline 방식으로 빠르게 테스트
+- 선택한 엘리먼트의 값을 임시로 변경 가능
+- 최종 결정된 css 값을 확인할 수 있음
